@@ -9,7 +9,7 @@ import {
 import ReactLenis from "lenis/react";
 import React, { useRef } from "react";
 import { Skiper62 } from "./skiper62";
-import { bodoniModa } from "@/lib/fonts";
+import { bodoniModa, pacifico } from "@/lib/fonts";
 
 interface para{
   text?:string;
